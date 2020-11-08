@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCview", "EFCview\EFCview.csproj", "{CF91535D-FDB2-4A31-AB78-73C1D4C77D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDBview", "WebDBview\WebDBview.csproj", "{17392FBD-F564-4982-B95E-89A6E60F9FB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF91535D-FDB2-4A31-AB78-73C1D4C77D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF91535D-FDB2-4A31-AB78-73C1D4C77D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF91535D-FDB2-4A31-AB78-73C1D4C77D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF91535D-FDB2-4A31-AB78-73C1D4C77D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17392FBD-F564-4982-B95E-89A6E60F9FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17392FBD-F564-4982-B95E-89A6E60F9FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17392FBD-F564-4982-B95E-89A6E60F9FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17392FBD-F564-4982-B95E-89A6E60F9FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F84E1BC-F36A-4025-924B-7D83795A5B30}
+	EndGlobalSection
+EndGlobal
